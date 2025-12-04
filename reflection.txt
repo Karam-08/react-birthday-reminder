@@ -1,0 +1,6 @@
+What components did you create?
+    I created BirthdayItem.jsx, BirthdayList.jsx, MonthBirthdays.jsx, and TodayBirthdays.jsx
+
+How did you pass props?
+
+How did you use .map() and destructuring?
