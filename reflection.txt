@@ -2,5 +2,7 @@ What components did you create?
     I created BirthdayItem.jsx, BirthdayList.jsx, MonthBirthdays.jsx, and TodayBirthdays.jsx
 
 How did you pass props?
+    I passed props by including person={person} when rendering the child component.
 
 How did you use .map() and destructuring?
+    I used .map() to loop over the array of people and destructured each person object to access name, birthday, and image directly inside the child component.
